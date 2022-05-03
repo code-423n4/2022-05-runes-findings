@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Don't allow the owner to take out funds that might be used for the refunds",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/34"
+}
