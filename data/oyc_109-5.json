@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "oyc_109",
+  "address": "0x18c18803a9eb6E032F50E97e6637cA8f811Cc118",
+  "risk": "2",
+  "title": "minter should be set in the constructor and should not be modifiable ",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/5"
+}
