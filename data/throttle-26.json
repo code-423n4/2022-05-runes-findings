@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "throttle",
+  "address": "0x210b0D0694ff95c99dD693DD89CDF2f88de6beC4",
+  "risk": "2",
+  "title": "Team's available NFT supply for minting is not capped which can lead to DoS",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/26"
+}
