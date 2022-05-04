@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "hake",
+  "address": "0x14Ca9669A2D8E353560b85474575c5FfDe245220",
+  "risk": "2",
+  "title": "Mintlist users might not be able to purchase tokens and tokens might only sell for very high prices.",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/88"
+}
