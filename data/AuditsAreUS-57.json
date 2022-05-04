@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Dutch auction participants can potentially receive a full refund",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/57"
+}
