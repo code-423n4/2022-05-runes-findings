@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/64"
+}
