@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "2",
+  "title": "If an Auction is Incomplete, The Governance Can Refuse to Refund Dutch Auction Participants by Calling `setFinalPrice()`",
+  "issueId": 266,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/266"
+}
