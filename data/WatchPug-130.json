@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "Missing data validation in setter functions can lead to div by 0",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/130"
+}
