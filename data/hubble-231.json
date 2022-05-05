@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "In case the auction falls short, it requires a manual intervention to set the finalPrice, which is error prone",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/231"
+}
