@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "dirk_y",
+  "address": "0x00db4d01c8953a707239DC168E466F64dD97Fe9c",
+  "risk": "2",
+  "title": "Minters can deliberately burn gas when owner issues refunds",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/140"
+}
