@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "3",
+  "title": "withdrawAll, withdraw and forwardERC20s needs safeguards in place",
+  "issueId": 184,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/184"
+}
