@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "simon135",
+  "address": "0x7bFbaBDa21BEEBB17E284901BfC41E942F8128C8",
+  "risk": "3",
+  "title": "reentryattack with owner checks and effecst pattern not implemented ",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/168"
+}
