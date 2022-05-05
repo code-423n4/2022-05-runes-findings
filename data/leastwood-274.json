@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "2",
+  "title": "If The Dutch Auction is Incomplete, Users May Overpay For an NFT During The Mintlist Phase Because `finalPrice` Must be Manually Set",
+  "issueId": 274,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/274"
+}
