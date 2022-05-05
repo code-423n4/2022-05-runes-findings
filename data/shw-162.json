@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "shw",
+  "address": "0x7bFbaBDa21BEEBB17E284901BfC41E942F8128C8",
+  "risk": "2",
+  "title": "numMinted should be less than or equal to MAX_WARRIORS ",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/162"
+}
