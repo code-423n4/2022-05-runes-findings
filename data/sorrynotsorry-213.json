@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "3",
+  "title": "A malicious actor can cause DoS with Block Gas Limit and destroy the sale flow also having advantage of buying cheaper price",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/213"
+}
