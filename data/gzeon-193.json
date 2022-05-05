@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "2",
+  "title": "`lowestPrice` can be set to greater than `startPrice`",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/193"
+}
