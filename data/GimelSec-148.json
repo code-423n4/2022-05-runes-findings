@@ -1,0 +1,9 @@
+{
+  "contest": 118,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "`daStartTime`, `daPriceCurveLength` and `daDropInterval` can be changed during Dutch Auction phase ",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2022-05-runes-findings/issues/148"
+}
