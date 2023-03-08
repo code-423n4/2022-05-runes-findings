@@ -1,3 +1,11 @@
+---
+sponsor: "Forgotten Runes"
+slug: "2022-05-runes"
+date: "2022-08-04"
+title: "Forgotten Runes Warrior Guild contest"
+findings: "https://github.com/code-423n4/2022-05-runes-findings/issues"
+contest: 118
+---
 
 # Overview
 
